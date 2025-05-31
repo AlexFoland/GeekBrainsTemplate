@@ -1,4 +1,6 @@
-## This site uses layout styles based on the BEM methodology
+## GeekBrainsTemplate
+
+This site uses layout styles based on the BEM methodology
 Build tool - Vite
 ![screencapture-localhost-5173-contacts-2025-05-16-05_10_05](https://github.com/user-attachments/assets/70e8ba9a-148c-49b7-a82f-8e43f0613052)
 # React + TypeScript + Vite
